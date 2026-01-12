@@ -113,4 +113,5 @@ __pypackages__/
 dmypy.json
 .mypy_cache/
 
-CONTRIBUTING.md
+
+**/*ignore*
